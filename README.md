@@ -10,7 +10,7 @@ python -m venv .venv
 ## 🧩 Requirements
 
 - Python 3.10+
-- `numpy`,
+- `numpy`, `matlotlib`
 
 
 I got an error using the computeReeb() function. We were able to create two cases, where one works and one doesn't.
