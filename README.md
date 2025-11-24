@@ -1,3 +1,18 @@
+# Small Issue description
+
+```bash
+git clone https://github.com/TobiasRobertEeksman/computereeb_issue.git
+cd comutereeb_issue
+python -m venv .venv
+. .venv/Scripts/activate   # or source .venv/bin/activate (mac/linux)
+```
+
+## 🧩 Requirements
+
+- Python 3.10+
+- `numpy`,
+
+
 I got an error using the computeReeb() function. We were able to create two cases, where one works and one doesn't.
 We are using the x-value as the height map and create lowerstar filtrations accordingly. 
 
